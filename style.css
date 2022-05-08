@@ -1,0 +1,27 @@
+section{
+    background-color:black;
+    color:cyan;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align:center;
+    margin-top:-25px;
+}
+h1{
+    text-decoration:underline;
+
+}
+body{
+    text-align:center;
+}
+footer{
+    margin-top:513px;
+    background-color:yellow;
+    color:blueviolet;
+    font-family: 'Bebas Neue', cursive;
+    font-size:20px;
+}
+canvas{
+    border-style:groove;
+    border-color:beige;
+    border-width:5px;
+    box-shadow:20px;
+}
